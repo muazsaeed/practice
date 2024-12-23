@@ -1,0 +1,1 @@
+ai program to generate mcqs
